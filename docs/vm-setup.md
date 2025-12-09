@@ -74,7 +74,7 @@ https://www.virtualbox.org/wiki/Downloads
 
 ### 4. Configure the Virtual Machine
 
-If a field is **not** listed, leave the default value.
+If a field is **not** listed, leave the default value. Also, please repeat these steps but for the Ubuntu VM.
 
 
 
