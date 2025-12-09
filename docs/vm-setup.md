@@ -24,7 +24,7 @@ https://ubuntu.com/download/desktop/thank-you?version=24.04.3&architecture=amd64
 
 ```
 
-![Ubuntu ISO](./img/GitHubVM/RockyISODownload.png)
+![Ubuntu ISO](./img/GitHubVM/UbuntuDownload.png)
 
 
 
