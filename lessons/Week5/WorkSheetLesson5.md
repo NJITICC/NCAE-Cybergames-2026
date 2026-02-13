@@ -33,6 +33,7 @@ Launch the psql interface.
 psql
 ```
 <br/>
+
 ### Create Database Role
 Create a login role with password authentication.
 ```bash
