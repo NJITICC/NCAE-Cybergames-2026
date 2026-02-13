@@ -81,6 +81,7 @@ GRANT SELECT, INSERT, UPDATE, DELETE ON TABLE users TO bill_kaplan;
 
 <br/>
 <br/>
+<br/>
 
 ### Exit PostgreSQL
 Leave the psql interface.
