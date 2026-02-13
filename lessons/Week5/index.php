@@ -1,5 +1,5 @@
 <?php
-$conn = pg_connect("host=172.18.x.x dbname=your_database user=bill_kaplan password=blackjack!");
+$conn = pg_connect("host=192.168.<t>.7 dbname=your_database user=bill_kaplan password=b1ackjack!");
 
 if (!$conn) {
     die("Database connection failed.");
