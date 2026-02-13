@@ -100,7 +100,7 @@ psql -h 127.0.0.1 -U bill_kaplan -d db
 ```
 
 
-# SQK GitHub Demo 2
+# SQL GitHub Demo 2
 
 ### View Table Contents
 Display all rows in users table.
