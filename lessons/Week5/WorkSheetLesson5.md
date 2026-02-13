@@ -218,6 +218,10 @@ Create a Samba password for the user.
 ```bash
 sudo smbpasswd -a benjamin_franklin
 ```
+
+<br/>
+<br/>
+
 ### Edit Samba Configuration
 Open Samba config file to define the share.
 ```bash
