@@ -78,6 +78,10 @@ Allow full CRUD operations on the users table.
 ```bash
 GRANT SELECT, INSERT, UPDATE, DELETE ON TABLE users TO bill_kaplan;
 ```
+
+<br/>
+<br/>
+
 ### Exit PostgreSQL
 Leave the psql interface.
 ```bash
