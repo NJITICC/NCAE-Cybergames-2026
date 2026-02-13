@@ -171,6 +171,7 @@ Add the following entry (do NOT modify existing lines):
 
 <br/>
 <br/>
+<br/>
 
 ### Restart Postgres Server 
 Applies the updated config
