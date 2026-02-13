@@ -169,6 +169,9 @@ Add the following entry (do NOT modify existing lines):
 
 ```host  db  bill_kaplan 192.168.<t>.5/32 scram-sha-256```
 
+<br/>
+<br/>
+
 ### Restart Postgres Server 
 Applies the updated config
 ```bash
